@@ -1,2 +1,2 @@
 #!/bin/bash
-git checkout -b betty
+git checkout betty
