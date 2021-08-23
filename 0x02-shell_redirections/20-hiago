@@ -1,2 +1,3 @@
 #!bin/bash
-cat file.txt | tr -dc '[:print:]'
+tr -d cC
+
