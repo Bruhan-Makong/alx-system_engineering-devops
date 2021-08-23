@@ -1,5 +1,5 @@
 #!/bin/bash
-printf "Best Schoo\n" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+echo "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
 
 
 							  
